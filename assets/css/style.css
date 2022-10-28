@@ -1,0 +1,65 @@
+.navbar-brand img{
+    height: 50px;
+}
+
+.hero{
+    color: #707070;
+    padding-top: 139px;
+    padding-bottom: 77px;
+
+}
+h1{
+    font-size: 3vw;
+    font-family: 'Open Sans' Bold;
+}
+h5{
+    font-weight: 700;
+    font-family: 'Open Sans';
+    font-size: 2vw;
+}
+
+p{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 1vw;
+}
+
+.card{
+    text-align: left;
+}
+
+.navsuricata{
+background-color: #E83E8C;
+}
+
+span{
+    color: #FFFFFF;
+}
+
+
+
+.card img{
+text-align: center;   
+
+}
+
+.subfooter{
+    font-family: 'Open Sans' Bold;
+padding-left: 100px;
+
+}
+
+footer{
+    background-color: #E83E8C;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 60px;
+
+}
+
+footer img{
+height: 15vh;    
+}
+    
+
+
